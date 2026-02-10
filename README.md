@@ -1,1 +1,3 @@
-# speed-math-cs-camp
+# Welcome to SPEED classes!
+
+This is an example repository.
